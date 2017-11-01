@@ -1,0 +1,5 @@
+C:\Users\Роман\documents\visual studio 2017\Projects\EPAM\QuickSort\QuickSort\bin\Release\QuickSort.dll
+C:\Users\Роман\documents\visual studio 2017\Projects\EPAM\QuickSort\QuickSort\bin\Release\QuickSort.pdb
+C:\Users\Роман\documents\visual studio 2017\Projects\EPAM\QuickSort\QuickSort\obj\Release\Sorts.csprojResolveAssemblyReference.cache
+C:\Users\Роман\documents\visual studio 2017\Projects\EPAM\QuickSort\QuickSort\obj\Release\QuickSort.dll
+C:\Users\Роман\documents\visual studio 2017\Projects\EPAM\QuickSort\QuickSort\obj\Release\QuickSort.pdb
